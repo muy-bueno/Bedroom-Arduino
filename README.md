@@ -7,6 +7,6 @@ Origional project can be found at [https://www.tinkercad.com/things/0pKshmSjM9p-
 <br/>
 Layout for the design goes as follows:<br/>
 Perimiter lights is the blue/purple in top view and at top of side view <br/>
-Pattern lights is the triangles in top view
+Pattern lights is the triangles in top view  
 Window lights are the green in side view
 ![bedroom layout](https://github.com/user-attachments/assets/08a9ad49-a616-44a2-963d-8eea4f599d48)
