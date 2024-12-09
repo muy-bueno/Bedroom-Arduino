@@ -1,5 +1,5 @@
 # Bedroom-Arduino
-***(Still a WIP!)***
+***(Still a WIP!)***  
 All Arduino code used for my bedroom renovation.  
 Origional project can be found at [https://www.tinkercad.com/things/0pKshmSjM9p-bedroom](https://www.tinkercad.com/things/0pKshmSjM9p-bedroom) <br/>
 First 4 LEDs (red and blue): perimiter lights  
